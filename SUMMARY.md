@@ -6,4 +6,5 @@
 
 * [Dart Fundamentals](flutter-learning/dart-fundamentals.md)
 * [Flutter](flutter.md)
+* [Flutter Practice](flutter-practice.md)
 
